@@ -14,3 +14,17 @@
  *= require_self
  */
 @import 'bootstrap';
+
+.footer-text {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+
+.home-body {
+    background-color: rgb(138, 138, 138);
+    height: 100vh;
+}
